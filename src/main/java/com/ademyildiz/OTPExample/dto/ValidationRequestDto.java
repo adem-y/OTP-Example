@@ -3,10 +3,7 @@ package com.ademyildiz.OTPExample.dto;
 import lombok.Data;
 
 @Data
-public class PasswordResetRequestDto {
-
-    private String phoneNumber;
+public class ValidationRequestDto {
     private String userName;
     private String otp;
-
 }

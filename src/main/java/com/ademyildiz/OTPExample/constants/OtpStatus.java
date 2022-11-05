@@ -1,4 +1,4 @@
-package com.ademyildiz.OTPExample.dto;
+package com.ademyildiz.OTPExample.constants;
 
 public enum OtpStatus {
     DELIVERED,
